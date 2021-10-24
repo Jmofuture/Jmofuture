@@ -1,2 +1,2 @@
-let titulo = 'Hola Genesis';
+let titulo = 'Esta es la prueba de mi Portfolio';
 document.write(titulo);
