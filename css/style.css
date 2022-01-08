@@ -31,6 +31,9 @@ main{
     align-items: center;
     font-size: 6rem;
     font-weight: 700;
+}
+
+.pointer{
     cursor: pointer;
 }
 
