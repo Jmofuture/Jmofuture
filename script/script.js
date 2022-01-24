@@ -15,7 +15,7 @@ async function handleSubmit(event) {
             'Accept': 'application/json'
         }
     }).then(response => {
-        status.textContent = "Gracias, tu mensaje fue enviado!";
+        status.textContent = `Gracias ${$form.name.value}, tu mensaje fue enviado!`;
         form.reset()
     }).catch(error => {
         status.textContent = "Oops! Hubo un problema, tu mensaje no fue enviado"
