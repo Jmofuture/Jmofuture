@@ -1,0 +1,32 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    max-inline-size: 540px;
+    margin: auto;
+    margin-block-end: 40px;
+}
+.form .title {
+    align-self: stretch;
+    text-align: center;
+}
+.form label {
+    display: flex;
+    flex-direction: column;
+}
+
+.form p{
+    text-align: center;
+}
+form input,
+form textarea {
+    border: 2px solid #858C94;
+    border-radius: 8px;
+    padding-inline-end: 16px;
+    padding-inline-start: 16px;
+    padding-block-end: 16px;
+    padding-block-start: 16px;
+    font: var(--body1);
+    margin-block-start: 8px;
+}
+

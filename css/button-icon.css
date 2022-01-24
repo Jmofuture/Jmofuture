@@ -1,0 +1,22 @@
+.icon-container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.button-icon{
+    padding: 10px;
+    border-radius: 4px;
+    color: var(--primary);
+    font: var(--headLine4);
+    transition: .1s;
+    display: inline-block;
+}
+.button-icon img{
+    vertical-align: middle;
+}
+
+.button-icon:active{
+    transform: scale(.9);
+}

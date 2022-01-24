@@ -8,7 +8,7 @@
     <meta autor="Jean Olmedillo">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Amaranth:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100;400;700;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
         integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -17,48 +17,126 @@
 </head>
 
 <body>
-    <header>
-        <picture>
-            <img src="./assets/img/logo.png" alt="">
-        </picture>
-        <nav>
-            <ul>
-                <li><a href="">About me</a></li>
-                <li><a href="">Portfolio</a></li>
-                <li><a href="">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-    <section>
-        <div>
-            <p>Hola soy Jean Olmedillo, soy un Técnico especializado en Gestión Fiscal, al cual siempre le apasiono
-                actualmente en formación como Desarrollador FrontEnd
-            </p>
-        </div>
-    </section>
-    <main>
-        <div><a href="https://github.com/Jmofuture/ElektroSaldo.git" target="_blank"></a></div>
-        <div><a href="https://github.com/Jmofuture/AgentesMoviles.git" target="_blank"></a></div>
-        <div><a href=""></a></div>
-        <div><a href=""></a></div>
-        
-    </main>
-<footer>
-    <picture>
-        <img src="./assets/img/logo.png" alt="prueba">
-    </picture>
-    <div>
-        <ul>
-            <li><a href="https://www.linkedin.com/in/jeanolmedillo" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-            <li><a href="https://twitter.com/Jmofuture" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
-            <li><a href="https://github.com/Jmofuture" target="_blank"><i class="fab fa-github-square"></i></a></li>
-            <li><a href="mailto:jmofdev@outlook.com?cc=jean.olmedillo@gmail.com&subject=Hola Jean Contacto desde tu web" 
-                target="_blank"><i class="fas fa-envelope-square"></i></a></li>
-            <li><a href="./assets/CV_Jean_Olmedillo.pdf" download="CV_Jean_Olmedillo"><i class="far fa-file"></i></a></li>
-        </ul>
-    </div>  
-</footer>
-    <script src="script/main.js"></script>
+    <div class="wrapper">
+        <header>
+            <nav class="menu">
+                <ul>
+                    <li><a class="is-active" href="">About me</a></li>
+                    <li><a href="">Portfolio</a></li>
+                    <li><a href="">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section class="hero">
+            <div class="hero-img">
+                <img src="/assets/img/Jean-Olmedillo.png" alt="">
+            </div>
+            <div class="hero-description">
+                <h1>
+                    <span>Hola!, soy </span><span>Jean Olmedillo</span>
+                </h1>
+                <h3>Frontend Developer</h3>
+                <div>
+                    <a class=" button" href="./assets/CV_Jean_Olmedillo.pdf" download="CV_Jean_Olmedillo">Descargar
+                        Curriculum</a>
+                </div>
+                <div class="social">
+                    <div>
+                        <a class=" button-icon" href="https://www.linkedin.com/in/jeanolmedillo" target="_blank"><i
+                                class="fab fa-linkedin"></i></a>
+                    </div>
+                    <div>
+                        <a class=" button-icon" href="https://twitter.com/Jmofuture" target="_blank"><i
+                                class="fab fa-twitter-square"></i></a>
+                    </div>
+                    <div>
+                        <a class=" button-icon" href="https://github.com/Jmofuture" target="_blank"><i
+                                class="fab fa-github-square"></i></a>
+                    </div>
+                    <div>
+                        <a class=" button-icon"
+                            href="mailto:jmofdev@outlook.com?cc=jean.olmedillo@gmail.com&subject=Hola Jean Contacto desde tu web"
+                            target="_blank"><i class="fas fa-envelope-square"></i></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="projects">
+            <div class="project-image">
+                <img src="./assets/img/elektrosaldo.jpeg" alt="">
+            </div>
+            <div class="projects-description">
+                <a class="title" href="https://www.elektrosaldo.online/" target="_blank">Elektrosaldo</a>
+                <p>Accede a un gran catalogo de juegos gratuitos para PC y guardalos como favortitos</p>
+                <a class="button is-secondary" href="https://github.com/Jmofuture/ElektroSaldo.git"
+                    target="_blank">Código</a>
+                <a class="button" href="https://www.elektrosaldo.online/" target="_blank">Proyecto</a>
+            </div>
+        </section>
+        <section class="projects">
+            <div class="project-image">
+                <img src="./assets/img/agentesmoviles.jpeg" alt="">
+            </div>
+            <div class="projects-description middle">
+                <a class="title" href="https://agentes-moviles.vercel.app/" target="_blank">Agentes Móviles</a>
+                <p>Accede a un gran catalogo de juegois gratuitos para PC y guardalos como favortitos</p>
+                <a class="button is-secondary" href="https://github.com/Jmofuture/AgentesMoviles.git"
+                    target="_blank">Código</a>
+                <a class="button" href="https://agentes-moviles.vercel.app/" target="_blank">Proyecto</a>
+            </div>
+        </section>
+        <section class="projects">
+            <div class="project-image">
+                <img src="./assets/img/elektrosaldo.jpeg" alt="">
+            </div>
+            <div class="projects-description">
+                <a class="title" href="https://www.elektrosaldo.online/" target="_blank">Jmofuture</a>
+                <p>Accede a un gran catalogo de juegois gratuitos para PC y guardalos como favortitos</p>
+                <a class="button is-secondary" href="https://github.com/Jmofuture/ElektroSaldo.git"
+                    target="_blank">Código</a>
+                <a class="button" href="https://www.elektrosaldo.online/" target="_blank">Proyecto</a>
+            </div>
+        </section>
+        <form class="form" action="https://formspree.io/f/mzbodwdg" method="POST" id="form">
+            <h2 class="title">Hablemos</h2>
+            <p>Si estas interesado en trabajar conmigo en su próximo proyecto, no dudes en contactarme</p>
+            <label for="name">Nombre Completo
+                <input name="name" type="text" placeholder="Juan" id="name" required>
+            </label>
+            <label for="email">Correo electrónico
+                <input type="email" name="email" id="email" required placeholder="Correo electrónico">
+            </label>
+            <label for="message">Mensaje
+                <textarea name="message" id="message" cols="30" rows="7" placeholder="Mensaje" required></textarea>
+            </label>
+            <button type="submit" class="button">Enviar Mensaje</button>
+            <p class="message-form" id="status"></p>
+        </form>
+        <footer>
+            <div class="social">
+                <div>
+                    <a class=" button-icon" href="https://www.linkedin.com/in/jeanolmedillo" target="_blank"><i
+                            class="fab fa-linkedin"></i></a>
+                </div>
+                <div>
+                    <a class=" button-icon" href="https://twitter.com/Jmofuture" target="_blank"><i
+                            class="fab fa-twitter-square"></i></a>
+                </div>
+                <div>
+                    <a class=" button-icon" href="https://github.com/Jmofuture" target="_blank"><i
+                            class="fab fa-github-square"></i></a>
+                </div>
+                <div>
+                    <a class=" button-icon"
+                        href="mailto:jmofdev@outlook.com?cc=jean.olmedillo@gmail.com&subject=Hola Jean Contacto desde tu web"
+                        target="_blank"><i class="fas fa-envelope-square"></i></a>
+                </div>
+            </div>
+            <p>Sitio diseñado por Jean Olmedillo</p>
+            <p>Copyrigth 2021 | Todos los derechos reservados</p>
+        </footer>
+    </div>
+    <script src="script/script.js"></script>
 </body>
 
 </html>

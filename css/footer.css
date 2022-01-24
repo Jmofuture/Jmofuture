@@ -1,0 +1,24 @@
+footer{
+    text-align: center;
+    
+}
+
+footer .social{
+    justify-content: center;
+    
+}
+
+@media screen and (min-width: 768px) {
+    footer{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-block-start: 40px;
+        padding-block-end: 40px;
+    }
+    footer .social{
+        order: 3;
+        align-items: center;
+        padding: 0;
+    }
+}
