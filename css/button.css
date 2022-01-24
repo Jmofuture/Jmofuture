@@ -1,7 +1,7 @@
-.button{
+.button {
     background: var(--primary);
     color: var(--white);
-    font:var(--button) ;
+    font: var(--button);
     padding-inline-start: 24px;
     padding-inline-end: 24px;
     padding-block-start: 13px;
@@ -11,10 +11,21 @@
     border: none;
     text-decoration: none;
     text-align: center;
+    transition: .1s;
 
 }
 
-.button.is-secondary{
+.is-secondary {
     background: unset;
     border: 2px solid var(--secondary);
+    transition: .1s;
+}
+
+
+
+@media screen and (min-width: 768px) {
+    .button:active,
+    .is-secondary:active {
+        transform: scale(.98);
+    }
 }
