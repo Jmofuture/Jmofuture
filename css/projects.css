@@ -34,21 +34,29 @@
     .projects-description {
         flex: 1;
         display: flex;
+        justify-content: center;
+        align-items: center;
     }
+
     .middle a:first-child, 
     .middle p{
         align-self: flex-end;
-        text-align: end;
     }
-    .projects-description .button {
-        align-items: center;
-        max-width: 60%;
-    }
+   
     .project-image {
         text-align: center;
         flex: 1;
     }
     .projects:nth-child(odd) .project-image {
         order: 2;
+    }
+    .projects-buttons{
+        inline-size: 100%;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .projects-description .button {
+        align-items: center;
+        inline-size: 40%;
     }
 }

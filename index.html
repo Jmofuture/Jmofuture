@@ -17,13 +17,13 @@
 </head>
 
 <body>
-    <div class="wrapper">
+    <div class="wrapper" id="up">
         <header>
             <nav class="menu">
                 <ul>
-                    <li><a class="is-active" href="">About me</a></li>
-                    <li><a href="">Portfolio</a></li>
-                    <li><a href="">Contact</a></li>
+                    <li><a class="is-active" href="#up">About me</a></li>
+                    <li><a href="#projectSection">Portfolio</a></li>
+                    <li><a href="#form">Contact</a></li>
                 </ul>
             </nav>
         </header>
@@ -61,16 +61,19 @@
                 </div>
             </div>
         </section>
-        <section class="projects">
+        <section class="projects" id="projectSection">
             <div class="project-image">
                 <img src="./assets/img/elektrosaldo.jpeg" alt="">
             </div>
             <div class="projects-description">
                 <a class="title" href="https://www.elektrosaldo.online/" target="_blank">Elektrosaldo</a>
-                <p>Accede a un gran catalogo de juegos gratuitos para PC y guardalos como favortitos</p>
-                <a class="button is-secondary" href="https://github.com/Jmofuture/ElektroSaldo.git"
-                    target="_blank">Código</a>
-                <a class="button" href="https://www.elektrosaldo.online/" target="_blank">Proyecto</a>
+                <p>Proyecto final de Curso de JavaScript en CoderHouse. Se utiliza tecnología AJAX consumiendo una API
+                    que genera un listado de juegos de PC gratuitos</p>
+                <div class="projects-buttons">
+                    <a class="button is-secondary" href="https://github.com/Jmofuture/ElektroSaldo.git"
+                        target="_blank">Código</a>
+                    <a class="button" href="https://www.elektrosaldo.online/" target="_blank">Proyecto</a>
+                </div>
             </div>
         </section>
         <section class="projects">
@@ -79,22 +82,26 @@
             </div>
             <div class="projects-description middle">
                 <a class="title" href="https://agentes-moviles.vercel.app/" target="_blank">Agentes Móviles</a>
-                <p>Accede a un gran catalogo de juegois gratuitos para PC y guardalos como favortitos</p>
-                <a class="button is-secondary" href="https://github.com/Jmofuture/AgentesMoviles.git"
-                    target="_blank">Código</a>
-                <a class="button" href="https://agentes-moviles.vercel.app/" target="_blank">Proyecto</a>
+                <p>Proyecto final del curso Desarrollo Web de CoderHouse</p>
+                <div class="projects-buttons">
+                    <a class="button is-secondary" href="https://github.com/Jmofuture/AgentesMoviles.git"
+                        target="_blank">Código</a>
+                    <a class="button" href="https://agentes-moviles.vercel.app/" target="_blank">Proyecto</a>
+                </div>
             </div>
         </section>
         <section class="projects">
             <div class="project-image">
-                <img src="./assets/img/elektrosaldo.jpeg" alt="">
+                <img src="./assets/img/Jmofuture.jpeg" alt="">
             </div>
             <div class="projects-description">
-                <a class="title" href="https://www.elektrosaldo.online/" target="_blank">Jmofuture</a>
-                <p>Accede a un gran catalogo de juegois gratuitos para PC y guardalos como favortitos</p>
-                <a class="button is-secondary" href="https://github.com/Jmofuture/ElektroSaldo.git"
-                    target="_blank">Código</a>
-                <a class="button" href="https://www.elektrosaldo.online/" target="_blank">Proyecto</a>
+                <a class="title" href="https://jmofuture.com/" target="_blank">Jmofuture</a>
+                <p>Portfolio personal, para muestra de proyectos.</p>
+                <div class="projects-buttons">
+                    <a class="button is-secondary" href="https://github.com/Jmofuture/Jmofuture.git"
+                        target="_blank">Código</a>
+                    <a class="button" href="https://jmofuture.com/" target="_blank">Proyecto</a>
+                </div>
             </div>
         </section>
         <form class="form" action="https://formspree.io/f/mzbodwdg" method="POST" id="form">
