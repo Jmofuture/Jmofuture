@@ -1,10 +1,10 @@
 
-<h1>Hello! 👋 I am Jean Olmedillo,</h1> <h4>Student of Data Analytics, Venezuelan resident in Uruguay, welcome.</h4>
+<h1>Hello! 👋 I am Jean Olmedillo,</h1> <h4>After years of accumulated experience in the financial and commercial sector, I decided to make a change in my career and focus on the area of Data Analysis which I have always been passionate about..</h4>
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" width="100%" heigth="50vh"/>
-</div>
+<!-- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" width="100%"/>
+</div> -->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
