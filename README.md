@@ -1,10 +1,10 @@
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy-downsized-large.gif" width="100%" heigth="50vh"/>
-</div> -->
+
 <h1>Hello! 👋 I am Jean Olmedillo,</h1> <h4>Student of Data Analytics, Venezuelan resident in Uruguay, welcome.</h4>
 
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" width="100%" heigth="50vh"/>
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
