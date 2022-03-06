@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="http://ibmblr.tumblr.com/post/97660465681/watson-the-decision-whisperer-at-the-rate-you" width="100"/>
+</div>
 ### Hi there 👋
 
 <!--
