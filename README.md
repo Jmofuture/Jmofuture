@@ -1,10 +1,9 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy-downsized-large.gif" width="100%" heigth="50vh"/>
-</div>
-Hi there 👋
+</div> -->
+Hello! 👋 I am Jean Olmedillo, student of Data Analytics, Venezuelan resident in Uruguay, welcome.
 
-<!--
-**Jmofuture/Jmofuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
