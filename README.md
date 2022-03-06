@@ -5,7 +5,7 @@
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" width="100%"/>
 </div> -->
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning SQL and Python
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
--->
+--> -->
