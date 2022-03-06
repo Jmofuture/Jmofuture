@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="http://ibmblr.tumblr.com/post/97660465681/watson-the-decision-whisperer-at-the-rate-you" width="100"/>
+  <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="100"/>
 </div>
 ### Hi there 👋
 
