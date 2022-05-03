@@ -39,7 +39,3 @@ Data Analyst in process, believer that valuable information comes from data.
 <a href="http://www.github.com/jmofuture"><img src="https://github-readme-stats.vercel.app/api?username=jmofuture&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="jmofuture's GitHub stats" /></a>
 
 <a href="http://www.github.com/jmofuture"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jmofuture&stroke=0891b2&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-
-<a href="http://www.github.com/jmofuture"><img src="https://activity-graph.herokuapp.com/graph?username=jmofuture&bg_color=1c1917&color=0891b2&line=ffffff&point=0891b2&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/jmofuture" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmofuture&langs_count=10&title_color=ffffff&text_color=0891b2&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
