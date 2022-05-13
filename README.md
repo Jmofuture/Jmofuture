@@ -32,10 +32,4 @@ Data Analyst in process, believer that valuable information comes from data.
 
 <p align="left"> <a href="https://www.github.com/jmofuture" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jeanolmedillo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/https://twitter.com/Jmofuture" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/jmofuture"><img src="https://github-readme-stats.vercel.app/api?username=jmofuture&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="jmofuture's GitHub stats" /></a>
-
-<a href="http://www.github.com/jmofuture"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jmofuture&stroke=0891b2&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
