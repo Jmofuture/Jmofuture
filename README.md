@@ -7,7 +7,7 @@ Data Analyst
 Data Analyst in process, believer that valuable information comes from data.
 
 * 🌍  I'm based in Montevideo
-* ✉️  You can contact me at [jeanolmedillo@outlook.com](mailto:jeanolmedillo@outlook.com)
+* ✉️  You can contact me at [Email](mailto:jeanolmedillo@outlook.com)
 * 🧠  I'm learning - SQL and Python
 * 🤝  I'm open to collaborating on Data Analyst projects
 * ⚡  A fan of video games, horror and superhero movies.
