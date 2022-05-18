@@ -17,7 +17,9 @@ Data Analyst in process, believer that valuable information comes from data.
 <p align="left">
  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="36" height="36" alt="Excel" /></a>
  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/732/732204.png" width="36" height="36" alt="PowerBi" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icons/sql" width="36" height="36" alt="SQl Server" /></a>
+ 
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="[https://www.flaticon.com/free-icons/sql](https://cdn-icons.flaticon.com/png/512/4248/premium/4248443.png?token=exp=1652913667~hmac=80e8e47d4abcb254b622dc13c7e9f65b)" width="36" height="36" alt="SQl Server" /></a>
+ 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
