@@ -6,11 +6,12 @@ Data Analyst
 
 Data Analyst in process, believer that valuable information comes from data.
 
-* 🌍  I'm based in Montevideo
+* 🌍  I'm based in Montevideo.
 * ✉️  You can contact me at [Email](mailto:jeanolmedillo@outlook.com)
 * 🧠  I'm learning - SQL & R
-* 🤝  I'm open to collaborating on Data Analyst projects
+* 🤝  I'm open to collaborating on Data Analyst projects.
 * ⚡  A fan of video games, horror and superhero movies.
+* 📊  Tableau Public [Go!](https://public.tableau.com/app/profile/jeanolmedillo)
 
 ### Skills
 
