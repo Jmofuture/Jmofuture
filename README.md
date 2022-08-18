@@ -20,8 +20,11 @@ Data Analyst in process, believer that valuable information comes from data.
 
 <p align="left">
 <img src = "https://user-images.githubusercontent.com/78714438/185477230-35d88297-8468-4098-adc9-be23b5f10f5a.svg" width = 40px heigth = 40px alt = "Excel Logo">
-
+<img src = "https://user-images.githubusercontent.com/78714438/185477857-65ec93d8-5bcb-4f6a-941e-ddb5ac30b318.svg" width = 40px heigth = 40px alt = "Power Bi Logo">
+<img src = "https://user-images.githubusercontent.com/78714438/185478048-0da2380f-4d54-4164-b1bb-05ff0abdeb9b.svg" width = 40px heigth = 40px alt = "Tableau Logo">
  
+
+
 </p>
 
 
