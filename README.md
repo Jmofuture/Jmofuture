@@ -8,15 +8,12 @@ Data Analyst in process, believer that valuable information comes from data.
 
 * 🌍  I'm based in Montevideo.
 * ✉️  You can contact me at [Email](mailto:jeanolmedillo@outlook.com)
-* 🧠  I'm learning - SQL & R
+* 🧠  I'm learning - Python & R
 * 🤝  I'm open to collaborating on Data Analyst projects.
 * ⚡  A fan of video games, horror and superhero movies.
 * 📊  Tableau Public [Go!](https://public.tableau.com/app/profile/jeanolmedillo)
 
-### Skills
-
-
-
+### Technologies
 
 <p align="left">
 <img src = "https://user-images.githubusercontent.com/78714438/185477230-35d88297-8468-4098-adc9-be23b5f10f5a.svg" width = 40px heigth = 40px alt = "Excel Logo">
@@ -26,6 +23,12 @@ Data Analyst in process, believer that valuable information comes from data.
 <img src = "https://user-images.githubusercontent.com/78714438/185478373-a418401c-b555-463c-a11b-9701a98932bd.svg" width = 40px heigth = 40px alt = "MySQL Logo">
 </p>
 
+### Learning
+
+<p align="left">
+<img src = "https://user-images.githubusercontent.com/78714438/185481513-e2738b5e-8a79-4b71-b731-98148ef2efb6.svg" width = 40px heigth = 40px alt = "Python Logo">
+<img src = "https://user-images.githubusercontent.com/78714438/185481621-8c784799-365d-4c1f-a467-d02632b8572a.svg" width = 40px heigth = 40px alt = "R Logo">
+</p>
 
 ### Socials
 
