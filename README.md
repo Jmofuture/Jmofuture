@@ -32,10 +32,6 @@ Data Analyst in process, believer that valuable information comes from data.
 
 ### Socials
 
-![icons8-linkedin](https://user-images.githubusercontent.com/78714438/185481913-9c6e1354-172d-4442-bd53-e0c511199291.svg)
-
-
-
 <p align="left"> 
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jeanolmedillo/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78714438/185482011-a4e74434-058d-4353-80ef-e281ca2f6754.svg" width="40" height="40" /></a>
 </p>
