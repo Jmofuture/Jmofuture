@@ -11,7 +11,7 @@ Data Analyst in process, believer that valuable information comes from data.
 * 🧠  I'm learning - Python & R
 * 🤝  I'm open to collaborating on Data Analyst projects.
 * ⚡  A fan of video games, horror and superhero movies.
-* 📊  <a href="https://public.tableau.com/app/profile/jeanolmedillo" target="_blank" rel="noreferrer>Tableau Public</a>
+* 📊  [Tableau Public](https://public.tableau.com/app/profile/jeanolmedillo)
 
 ### Technologies
 
