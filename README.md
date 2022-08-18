@@ -19,7 +19,7 @@ Data Analyst in process, believer that valuable information comes from data.
 
 
 <p align="left">
-![icons8-microsoft-excel-2019](https://user-images.githubusercontent.com/78714438/185477230-35d88297-8468-4098-adc9-be23b5f10f5a.svg)
+<img src = "https://user-images.githubusercontent.com/78714438/185477230-35d88297-8468-4098-adc9-be23b5f10f5a.svg" width = 40px heigth = 40px alt = "Excel Logo">
 
  
 </p>
