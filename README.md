@@ -19,7 +19,7 @@ Data Analyst in process, believer that valuable information comes from data.
 <p align="left">
  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="36" height="36" alt="Excel" /></a>
  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/732/732204.png" width="36" height="36" alt="PowerBi" /></a>
-  <a href="https://public.tableau.com/app/profile/jeanolmedillo" target="_blank" rel="noreferrer"><![icons8-tableau-software-48](https://user-images.githubusercontent.com/78714438/185465319-cd49d203-9558-4d4c-8001-7e92725f9da9.svg)></a>
+  <a href="https://public.tableau.com/app/profile/jeanolmedillo" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78714438/185465319-cd49d203-9558-4d4c-8001-7e92725f9da9.svg" width="36" height="36" alt="Tableau" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> 
