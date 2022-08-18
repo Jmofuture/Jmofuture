@@ -4,7 +4,7 @@ Hi 👋 My name is Jean Olmedillo
 Data Analyst
 ------------
 
-Data Analyst in process, believer that valuable information comes from data.
+Data Analyst, believer that valuable information comes from data.
 
 * 🌍  I'm based in Montevideo.
 * ✉️  You can contact me at [Email](mailto:jeanolmedillo@outlook.com)
