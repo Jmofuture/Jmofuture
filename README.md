@@ -11,7 +11,7 @@ Data Analyst, believer that valuable information comes from data.
 * 🧠  I'm learning - R
 * 🤝  I'm open to collaborating on Data Analyst projects.
 * ⚡  A fan of video games, horror and superhero movies.
-* 📊  I share some of my projects in [My Web](https://www.jmofuture.com/proyectos)
+* 📊  I share some of my projects in [My Web](https://www.jmofuture.com/proyectos){:target="_blank" rel="noopener"}
 
 ### Technologies
 
