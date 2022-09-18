@@ -21,8 +21,6 @@ Data Analyst, believer that valuable information comes from data.
 <img src = "https://user-images.githubusercontent.com/78714438/185477857-65ec93d8-5bcb-4f6a-941e-ddb5ac30b318.svg" width = 40px heigth = 40px alt = "Power Bi Logo" title = "Power BI">
 <img src = "https://user-images.githubusercontent.com/78714438/185478048-0da2380f-4d54-4164-b1bb-05ff0abdeb9b.svg" width = 40px heigth = 40px alt = "Tableau Logo" title = "Tableau">
 <img src = "https://user-images.githubusercontent.com/78714438/185521614-932f07f0-eeb6-4d80-b2c5-764453a3647a.svg" width = 40px heigth = 40px alt = "SQL Server Logo" title = "SQL Server">
-<img src = "https://user-images.githubusercontent.com/78714438/185478183-d203fa04-1ee8-4b27-9ab1-bc4e49736637.svg" width = 40px heigth = 40px alt = "PostgresSQL Logo" title = "PostgreSQL">
-<img src = "https://user-images.githubusercontent.com/78714438/185478373-a418401c-b555-463c-a11b-9701a98932bd.svg" width = 40px heigth = 40px alt = "MySQL Logo" title = "MySQL">
 <img src = "https://user-images.githubusercontent.com/78714438/186014971-964e41e9-764e-47a2-a6f2-f4e99d2394b0.svg" width = 40px heigth = 40px alt = "MySQL Logo" title = "Git">
 </p>
 
