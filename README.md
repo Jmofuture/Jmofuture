@@ -8,10 +8,10 @@ Data Analyst, believer that valuable information comes from data.
 
 * 🌍  I'm based in Montevideo.
 * ✉️  You can contact me at [Email](mailto:jeanolmedillo@outlook.com)
-* 🧠  I'm learning - Python & R
+* 🧠  I'm learning - R
 * 🤝  I'm open to collaborating on Data Analyst projects.
 * ⚡  A fan of video games, horror and superhero movies.
-* 📊  [Tableau Public](https://public.tableau.com/app/profile/jeanolmedillo)
+* 📊  I share some of my projects in [My Web](https://www.jmofuture.com/proyectos)
 
 ### Technologies
 
