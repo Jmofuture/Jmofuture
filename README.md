@@ -24,9 +24,9 @@ Data Analyst, believer that valuable information comes from data.
 <img src = "https://user-images.githubusercontent.com/78714438/185521614-932f07f0-eeb6-4d80-b2c5-764453a3647a.svg" width = 40px heigth = 40px alt = "SQL Server Logo" title = "SQL Server">
 <img src = "https://github.com/Jmofuture/Jmofuture/assets/78714438/550d13b1-f44b-4884-aeb3-f2b45c820042.png" width = 40px heigth = 40px alt = "MySQL Logo" title = "MySQL">
 <img src = "https://github.com/Jmofuture/Jmofuture/assets/78714438/2ca9dcac-e3fb-4c9a-8ed2-0e54c1c11fbb.png" width = 40px heigth = 40px alt = "Postgresql Logo" title = "Postgresql">
+ <img src = "https://github.com/Jmofuture/Jmofuture/assets/78714438/ed4b9360-4acb-4102-87e3-0fb43b2ad3d9.svg" width = 40px heigth = 40px alt = "Amazon RedShift Logo" title = "Amazon RedShift">
  <img src = "https://user-images.githubusercontent.com/78714438/186014971-964e41e9-764e-47a2-a6f2-f4e99d2394b0.svg" width = 40px heigth = 40px alt = "Git Logo" title = "Git">
 </p>
-
 
 
 
