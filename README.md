@@ -8,7 +8,7 @@ Data Analyst, believer that valuable information comes from data.
 
 * 🌍  I'm based in Montevideo.
 * ✉️  You can contact me at [Email](mailto:jeanolmedillo@outlook.com)
-* 🧠  I'm learning - R
+* 🧠  I'm learning - Python
 * 🤝  I'm open to collaborating on Data Analyst projects.
 * ⚡  A fan of video games, horror and superhero movies.
 * 📊  I share some of my projects in <a href="https://www.jmofuture.com/proyectos" target="_blank" rel="noopener">My Web</a>
@@ -16,6 +16,7 @@ Data Analyst, believer that valuable information comes from data.
 ### Technologies
 
 <p align="left">
+<img src = "https://user-images.githubusercontent.com/78714438/185481621-8c784799-365d-4c1f-a467-d02632b8572a.svg" width = 40px heigth = 40px alt = "R Logo" title = "R">
 <img src = "https://user-images.githubusercontent.com/78714438/185477230-35d88297-8468-4098-adc9-be23b5f10f5a.svg" width = 40px heigth = 40px alt = "Excel Logo" title = "Excel">
 <img src = "https://user-images.githubusercontent.com/78714438/185485499-9289be08-b6f1-444b-bcdf-e43e7bc01fec.svg" width = 40px heigth = 40px alt = "Google Sheet Logo" title = "Google Sheet">
 <img src = "https://user-images.githubusercontent.com/78714438/185477857-65ec93d8-5bcb-4f6a-941e-ddb5ac30b318.svg" width = 40px heigth = 40px alt = "Power Bi Logo" title = "Power BI">
