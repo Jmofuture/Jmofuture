@@ -32,8 +32,9 @@ Data Analyst, believer that valuable information comes from data.
 ### Learning
 
 <p align="left">
-<img src = "https://user-images.githubusercontent.com/78714438/185481621-8c784799-365d-4c1f-a467-d02632b8572a.svg" width = 40px heigth = 40px alt = "R Logo" title = "R">
-</p>
+<img src = "https://github.com/Jmofuture/Jmofuture/assets/78714438/3340685e-5ad1-4e9b-9795-bfe426af7b80.svg" width = 40px heigth = 40px alt = "Python Logo" title = "Python">
+
+
 
 ### Socials
 
