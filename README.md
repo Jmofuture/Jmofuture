@@ -16,6 +16,7 @@ Data Analyst, believer that valuable information comes from data.
 ### Technologies
 
 <p align="left">
+<img src = "https://github.com/Jmofuture/Jmofuture/assets/78714438/3340685e-5ad1-4e9b-9795-bfe426af7b80.svg" width = 40px heigth = 40px alt = "Python Logo" title = "Python">
 <img src = "https://user-images.githubusercontent.com/78714438/185481621-8c784799-365d-4c1f-a467-d02632b8572a.svg" width = 40px heigth = 40px alt = "R Logo" title = "R">
 <img src = "https://user-images.githubusercontent.com/78714438/185477230-35d88297-8468-4098-adc9-be23b5f10f5a.svg" width = 40px heigth = 40px alt = "Excel Logo" title = "Excel">
 <img src = "https://user-images.githubusercontent.com/78714438/185485499-9289be08-b6f1-444b-bcdf-e43e7bc01fec.svg" width = 40px heigth = 40px alt = "Google Sheet Logo" title = "Google Sheet">
@@ -27,15 +28,6 @@ Data Analyst, believer that valuable information comes from data.
  <img src = "https://github.com/Jmofuture/Jmofuture/assets/78714438/ed4b9360-4acb-4102-87e3-0fb43b2ad3d9.svg" width = 40px heigth = 40px alt = "Amazon RedShift Logo" title = "Amazon RedShift">
  <img src = "https://user-images.githubusercontent.com/78714438/186014971-964e41e9-764e-47a2-a6f2-f4e99d2394b0.svg" width = 40px heigth = 40px alt = "Git Logo" title = "Git">
 </p>
-
-
-
-
-
-### Learning
-
-<p align="left">
-<img src = "https://github.com/Jmofuture/Jmofuture/assets/78714438/3340685e-5ad1-4e9b-9795-bfe426af7b80.svg" width = 40px heigth = 40px alt = "Python Logo" title = "Python">
 
 
 
