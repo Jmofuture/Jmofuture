@@ -17,8 +17,7 @@ Data Analyst, believer that valuable information comes from data.
 
 <p align="left">
 <img src = "https://github.com/Jmofuture/Jmofuture/assets/78714438/3340685e-5ad1-4e9b-9795-bfe426af7b80.svg" width = 40px heigth = 40px alt = "Python Logo" title = "Python">
-<img src = "https://user-images.githubusercontent.com/78714438/185481621-8c784799-365d-4c![icons8-python-1000](https://github.com/Jmofuture/Jmofuture/assets/78714438/2352de3c-5e12-4653-b24a-fd7ed1a8f2c7)
-1f-a467-d02632b8572a.svg" width = 40px heigth = 40px alt = "R Logo" title = "R">
+<img src = "https://github.com/Jmofuture/Jmofuture/assets/78714438/2352de3c-5e12-4653-b24a-fd7ed1a8f2c7.svg" width = 40px heigth = 40px alt = "R Logo" title = "R">
 <img src = "https://user-images.githubusercontent.com/78714438/185477230-35d88297-8468-4098-adc9-be23b5f10f5a.svg" width = 40px heigth = 40px alt = "Excel Logo" title = "Excel">
 <img src = "https://user-images.githubusercontent.com/78714438/185485499-9289be08-b6f1-444b-bcdf-e43e7bc01fec.svg" width = 40px heigth = 40px alt = "Google Sheet Logo" title = "Google Sheet">
 <img src = "https://user-images.githubusercontent.com/78714438/185477857-65ec93d8-5bcb-4f6a-941e-ddb5ac30b318.svg" width = 40px heigth = 40px alt = "Power Bi Logo" title = "Power BI">
