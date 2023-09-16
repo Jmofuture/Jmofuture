@@ -1,4 +1,4 @@
-![icons8-r-project-1000](https://github.com/Jmofuture/Jmofuture/assets/78714438/a32d39b2-2a0b-4fa6-9c3f-bbeb7a2ec695)👋 My name is Jean Olmedillo
+👋 My name is Jean Olmedillo
 ===============================
 
 Data Analyst
