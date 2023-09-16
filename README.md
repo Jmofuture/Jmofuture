@@ -16,7 +16,7 @@ Data Analyst, believer that valuable information comes from data.
 ### Technologies
 
 <p align="left">
-<img src = "https://github.com/Jmofuture/Jmofuture/assets/78714438/2352de3c-5e12-4653-b24a-fd7ed1a8f2c7.svg" width = 40px heigth = 40px alt = "Python Logo" title = "Python">
+<img src = "https://github.com/Jmofuture/Jmofuture/assets/78714438/2352de3c-5e12-4653-b24a-fd7ed1a8f2c7" width = 40px heigth = 40px alt = "Python Logo" title = "Python">
 
 <img src = "https://github.com/Jmofuture/Jmofuture/assets/78714438/cf7c9564-f974-401a-9ece-44d91e4995ef"  width = 40px heigth = 40px alt = "Python Logo" title = "Python">
   
