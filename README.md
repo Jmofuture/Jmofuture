@@ -31,6 +31,8 @@ Data Analyst, believer that valuable information comes from data.
 
 
 
+<img src = "https://roadmap.sh/card/tall/675cfcc6ecc889bb0d8885d6?variant=dark" >
+
 
 ### Socials
 
