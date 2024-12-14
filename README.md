@@ -35,6 +35,6 @@ Data Analyst, believer that valuable information comes from data.
 <a href="https://www.linkedin.com/in/jeanolmedillo/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78714438/185482011-a4e74434-058d-4353-80ef-e281ca2f6754.svg" width="40" height="40"/></a>
 </p>
 
-[![roadmap.sh](https://roadmap.sh/card/tall/675cfcc6ecc889bb0d8885d6?variant=dark)](https://roadmap.sh)
+[[![roadmap.sh](https://roadmap.sh/card/tall/675cfcc6ecc889bb0d8885d6?variant=dark)](https://roadmap.sh)](https://roadmap.sh/card/tall/675cfcc6ecc889bb0d8885d6?variant=dark)
 
 
