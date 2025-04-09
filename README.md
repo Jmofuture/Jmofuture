@@ -6,7 +6,7 @@ Data Analyst
 
 Data Analyst, believer that valuable information comes from data.
 
-* 🌍  I'm based in Montevideo.
+* 🌍  I'm based in Punta del Este.
 * ✉️  You can contact me at [Email](mailto:jeanolmedillo@outlook.com)
 * 🧠  I'm learning - Python
 * 🤝  I'm open to collaborating on Data Analyst projects.
